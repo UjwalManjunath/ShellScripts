@@ -1,7 +1,16 @@
 Name : Ujwal Manjunath
 
 
-Youinfo.sh is a shell script.
+
+NAME
+
+YouInfo  -    Display login information about current or another target user
+ 
+SYNOPSIS
+
+loginfo   [target user]
+
+DESCRIPTION
 
 This script generates the following information:
 1.     Target user login information:
@@ -25,3 +34,4 @@ If the [target user]   login argument is missing the current user login is used.
 ·        Target login
 ·        Login host name
 ·        Host name from which the user used to login.
+
